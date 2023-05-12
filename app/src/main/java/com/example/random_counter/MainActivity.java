@@ -38,7 +38,7 @@ public class MainActivity extends AppCompatActivity {
                 int userGuess = Integer.parseInt(user_guess_input.getText().toString());
 
                 random_number_text.setText(""+randomNumber);
-                user_guess_text.setText(""+userGuess);
+                user_number_text.setText(""+userGuess);
                 answer_response.setText(((randomNumber == userGuess) ? "You're Right!": "WRONG!"));
 
 
