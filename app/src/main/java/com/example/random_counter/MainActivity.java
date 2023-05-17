@@ -1,5 +1,5 @@
 package com.example.random_counter;
-//comment
+
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
